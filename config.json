@@ -1,0 +1,8 @@
+{
+    "name": "dbhandler-service",
+    "version": "1.0.54",
+    "private": false,
+    "environment": "production",
+    "build_id": 442,
+    "allow_public_access": true
+}
